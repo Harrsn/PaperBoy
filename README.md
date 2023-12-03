@@ -1,6 +1,6 @@
 # PaperBoy
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)   <img src="https://img.shields.io/badge/made%20with-python-blue.svg" alt="made with Python"> <a href='https://github.com/harrsn' target='_blank'><img src='https://img.shields.io/github/followers/harrsn.svg?label=Folow&style=social'>
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)   <img src="https://img.shields.io/badge/made%20with-python-blue.svg" alt="made with Python"> <a href='https://github.com/harrsn' target='_blank'><img src='https://img.shields.io/github/followers/harrsn.svg?label=Follow&style=social'>
 </a>
 
 PaperBoy is a powerful content aggregator designed to efficiently collect content from various sources, organize it, and present it in one convenient location.
