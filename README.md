@@ -52,7 +52,7 @@ $ set FLASK_ENV=development
 ```
 
 ## Errors and Debugging options
-The server, by default, does not start in debugger mode. To enable debugger mode, modify the last line of the '[server.py](https://github.com/harrsn/paperboy/blob/master/server.py)' file:
+The server, by default, does not start in debugger mode. To enable debugger mode, modify the last line of the '[server.py](https://github.com/harrsn/paperboy/blob/main/server.py)' file:
 ```python
 app.run() -> app.run(debug=True)
 ```
