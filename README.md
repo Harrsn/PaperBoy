@@ -58,6 +58,6 @@ app.run() -> app.run(debug=True)
 ```
 Most errors will be logged to the console and can be referenced later for debugging.
 ## Packages Used
-- **[Requests](https://2.python-requests.org/en/master/)** : For fetching the source websites.
-- **[Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)** : For scraping the source websites.
-- **[Flask](http://flask.pocoo.org/)** : For hosting the web interface.
+- **[Requests](https://2.python-requests.org/en/master/)** - For fetching the source websites.
+- **[Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)** - For scraping the source websites.
+- **[Flask](http://flask.pocoo.org/)** - For hosting the web interface.
